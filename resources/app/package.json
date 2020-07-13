@@ -1,0 +1,28 @@
+{
+    "name": "kite",
+    "productName": "Kite Desktop",
+    "version": "1.0.0",
+    "description": "Open Source Desktop App for Zerodha Kite. Developed for Community.",
+    "main": "lib/main.js",
+    "author": "Asharam Seervi <seerviasharam@gmail.com>",
+    "license": "MIT",
+    "keywords": [
+        "windows desktop app",
+        "desktop app",
+        "zerodha",
+        "kite",
+        "trading-app"
+    ],
+    "scripts": {},
+    "dependencies": {
+        "electron-context-menu": "2.x",
+        "electron-dl": "3.x",
+        "electron-squirrel-startup": "1.x",
+        "electron-window-state": "5.x",
+        "source-map-support": "0.x",
+        "wurl": "2.x"
+    },
+    "devDependencies": {
+        "electron": "9.x"
+    }
+}
