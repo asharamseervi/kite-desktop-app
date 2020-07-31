@@ -6,7 +6,8 @@
     <p align="center">
         <p>Execute Secured Trading with Open Source Zerodha Kite Desktop App.</p>
     </p>
-[https://kite.zerodha.com/](https://kite.zerodha.com/)
+    [https://kite.zerodha.com](https://kite.zerodha.com/)
+</div>
 
 
 
@@ -26,8 +27,8 @@ This app built with Electron, Open Source platform to develop desktop applicatio
 - [Zerodha](https://zerodha.com/)
 - [Electron](https://github.com/electron/electron)
 - [Nativefier](https://www.npmjs.com/package/nativefier) &
-- [https://www.aaimaa.in/](Aaimaa Web Solutions - My Company)
+- [https://www.aaimaa.in](Aaimaa Web Solutions - My Company)
 
 ### Disclaimer
 
-Trademarked words & images represent their respective holders. Also, this is a community-driven project you may use it, fork it, contribute it as per your wish.This project neither developed by Zerodha affiliated developer, nor endorsed by them.
+Trademarked words & images represent their respective holders. Also, this is a community-driven project you may use it, fork it, contribute it as you wish. This project neither developed by Zerodha affiliated developer, nor endorsed by them.
