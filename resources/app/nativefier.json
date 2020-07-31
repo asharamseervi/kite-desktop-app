@@ -4,7 +4,7 @@
     "basicAuthPassword": null,
     "basicAuthUsername": null,
     "bounce": false,
-    "clearCache": true,
+    "clearCache": false,
     "counter": false,
     "darwinDarkModeSupport": false,
     "disableDevTools": true,
