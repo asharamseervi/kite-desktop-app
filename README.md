@@ -1,14 +1,10 @@
 # Kite Desktop
 
-<div align="center">
-    <img src="https://kite.zerodha.com/static/images/browser-icons/favicon.ico" height="128">
-    <h2>Kite Desktop App</h2>
-    <p align="center">
-        <p>Execute Secured Trading with Open Source Zerodha Kite Desktop App.</p>
-    </p>
-    [https://kite.zerodha.com](https://kite.zerodha.com/)
-</div>
-
+  ![logo](https://raw.githubusercontent.com/asharamseervi/kite-desktop-app/master/resources/app/icon.ico "Zerodha Kite")
+  ## Kite Desktop App
+  
+  Execute Secured Trading with Open Source Zerodha Kite Desktop App.  
+  [kite.zerodha.com](https://kite.zerodha.com/)  
 
 
 ## Why Desktop App?
@@ -24,10 +20,10 @@ This app built with Electron, Open Source platform to develop desktop applicatio
 [Download](https://github.com/asharamseervi/kite-desktop-app/releases) latest version from release page & double-tap. Done. That simple.
 
 ## Credits
-- [Zerodha](https://zerodha.com/)
-- [Electron](https://github.com/electron/electron)
-- [Nativefier](https://www.npmjs.com/package/nativefier) &
-- [https://www.aaimaa.in](Aaimaa Web Solutions - My Company)
+* [Zerodha](https://zerodha.com/)
+* [Electron](https://github.com/electron/electron)
+* [Nativefier](https://www.npmjs.com/package/nativefier) & 
+* [Aaimaa Web Solutions - My Company](https://www.aaimaa.in)
 
 ### Disclaimer
 
